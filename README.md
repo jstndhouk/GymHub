@@ -28,10 +28,9 @@ WHEN I edit or create a lift,
 THEN I am able to see when it was last updated.
 
 ## Reaches
+
 WHEN I login to the page, 
 THEN all my lifts, and only my lifts are shown throughout the application
-
-
 
 ## Models
 
